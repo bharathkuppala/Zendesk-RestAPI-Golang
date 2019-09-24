@@ -1,0 +1,2 @@
+Id,CaseNumber,ContactId,Origin,Subject,Description,ClosedDate,CreatedDate,Reason__c,Record_Type_Skill__c,Resolution__c,SAP_Notes_Internal__c,SAP_Notes__c,Date_Payment_Received__c,Payment_Mode__c
+5000H000011BmpYQAS,14952173,,Manual,1023822326 : Order on Block,,2017-11-10T08:01:32.000Z,2017-11-03T17:31:36.000Z,AC Delivery Block,Delivery Block,AC Block Resolution,,,,
