@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	secretKey   = "212a75ee93aee079d59cb6ff0c8677814df469973231333cd423cda21d6db493"
+	secretKey   = ""
 	redirectURI = "https://843f46f4.ngrok.io/zendesk/oauth"
 	clientID    = "zendesk_oauth"
 	subDomain   = "https://celebal.zendesk.com"
