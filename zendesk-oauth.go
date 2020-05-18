@@ -17,8 +17,8 @@ func zendesk() {
 	requestData.Set("grant_type", "password")
 	requestData.Set("client_id", clientID)
 	requestData.Set("client_secret", secretKey)
-	requestData.Set("username", "sumit@celebal.com")
-	requestData.Set("password", "zendesk@123")
+	requestData.Set("username", "USERNAME")
+	requestData.Set("password", "PASSWORD")
 	requestData.Set("scope", "read write")
 
 	response, err := http.Post(subDomain+"/oauth/tokens", "application/x-www-form-urlencoded", bytes.NewBuffer([]byte(requestData.Encode())))
